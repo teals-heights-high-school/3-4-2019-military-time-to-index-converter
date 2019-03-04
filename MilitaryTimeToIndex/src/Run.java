@@ -21,6 +21,7 @@ public class Run {
 		System.out.println(computeIndexFromTime("2323"));
 	}
 
+	//returns an index between 0 and 47 for valid input or -1 for invalid input
 	public static int computeIndexFromTime(String time) {
 		//ensure length is exactly four
 		if(time.length() != 4) {
