@@ -1,1 +1,2 @@
-# 3-4-2019-military-time-to-index-converter
+# Military Time to Index Converter
+A student needed a way to convert a military time input string to the corresponding index of an ArrayList of size 48. Each element corresponds to a half hour slot of a day.
